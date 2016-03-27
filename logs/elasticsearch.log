@@ -1,0 +1,18 @@
+[2016-03-27 17:43:45,303][INFO ][node                     ] [Thor] version[2.2.1], pid[11173], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-27 17:43:45,304][INFO ][node                     ] [Thor] initializing ...
+[2016-03-27 17:43:45,837][INFO ][plugins                  ] [Thor] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-27 17:43:45,868][INFO ][env                      ] [Thor] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-27 17:43:45,868][INFO ][env                      ] [Thor] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-27 17:43:45,869][WARN ][env                      ] [Thor] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-27 17:43:47,655][INFO ][node                     ] [Thor] initialized
+[2016-03-27 17:43:47,655][INFO ][node                     ] [Thor] starting ...
+[2016-03-27 17:43:47,748][INFO ][transport                ] [Thor] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-27 17:43:47,756][INFO ][discovery                ] [Thor] elasticsearch/5wjdOOcUTAGt43sg5aOq8g
+[2016-03-27 17:43:50,797][INFO ][cluster.service          ] [Thor] new_master {Thor}{5wjdOOcUTAGt43sg5aOq8g}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-27 17:43:50,810][INFO ][http                     ] [Thor] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-27 17:43:50,810][INFO ][node                     ] [Thor] started
+[2016-03-27 17:43:50,831][INFO ][gateway                  ] [Thor] recovered [0] indices into cluster_state
+[2016-03-27 17:47:01,374][INFO ][node                     ] [Thor] stopping ...
+[2016-03-27 17:47:01,388][INFO ][node                     ] [Thor] stopped
+[2016-03-27 17:47:01,388][INFO ][node                     ] [Thor] closing ...
+[2016-03-27 17:47:01,393][INFO ][node                     ] [Thor] closed
