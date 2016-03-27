@@ -16,3 +16,39 @@
 [2016-03-27 17:47:01,388][INFO ][node                     ] [Thor] stopped
 [2016-03-27 17:47:01,388][INFO ][node                     ] [Thor] closing ...
 [2016-03-27 17:47:01,393][INFO ][node                     ] [Thor] closed
+[2016-03-27 18:31:42,194][INFO ][node                     ] [Crusader] version[2.2.1], pid[15960], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-27 18:31:42,195][INFO ][node                     ] [Crusader] initializing ...
+[2016-03-27 18:31:42,736][INFO ][plugins                  ] [Crusader] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-27 18:31:42,765][INFO ][env                      ] [Crusader] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-27 18:31:42,765][INFO ][env                      ] [Crusader] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-27 18:31:42,765][WARN ][env                      ] [Crusader] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-27 18:31:44,601][INFO ][node                     ] [Crusader] initialized
+[2016-03-27 18:31:44,601][INFO ][node                     ] [Crusader] starting ...
+[2016-03-27 18:31:44,695][INFO ][transport                ] [Crusader] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-27 18:31:44,705][INFO ][discovery                ] [Crusader] elasticsearch/iNngmzOiQ3aSQOFMp5J7cQ
+[2016-03-27 18:31:47,740][INFO ][cluster.service          ] [Crusader] new_master {Crusader}{iNngmzOiQ3aSQOFMp5J7cQ}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-27 18:31:47,755][INFO ][http                     ] [Crusader] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-27 18:31:47,755][INFO ][node                     ] [Crusader] started
+[2016-03-27 18:31:47,774][INFO ][gateway                  ] [Crusader] recovered [0] indices into cluster_state
+[2016-03-27 18:32:30,209][INFO ][node                     ] [Crusader] stopping ...
+[2016-03-27 18:32:30,229][INFO ][node                     ] [Crusader] stopped
+[2016-03-27 18:32:30,229][INFO ][node                     ] [Crusader] closing ...
+[2016-03-27 18:32:30,234][INFO ][node                     ] [Crusader] closed
+[2016-03-27 18:32:55,152][INFO ][node                     ] [Link] version[2.2.1], pid[16114], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-27 18:32:55,153][INFO ][node                     ] [Link] initializing ...
+[2016-03-27 18:32:55,563][INFO ][plugins                  ] [Link] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-27 18:32:55,580][INFO ][env                      ] [Link] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-27 18:32:55,580][INFO ][env                      ] [Link] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-27 18:32:55,580][WARN ][env                      ] [Link] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-27 18:32:56,784][INFO ][node                     ] [Link] initialized
+[2016-03-27 18:32:56,784][INFO ][node                     ] [Link] starting ...
+[2016-03-27 18:32:56,839][INFO ][transport                ] [Link] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-27 18:32:56,849][INFO ][discovery                ] [Link] elasticsearch/zYgekW-8SGiLNejZww5UpA
+[2016-03-27 18:32:59,884][INFO ][cluster.service          ] [Link] new_master {Link}{zYgekW-8SGiLNejZww5UpA}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-27 18:32:59,899][INFO ][http                     ] [Link] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-27 18:32:59,899][INFO ][node                     ] [Link] started
+[2016-03-27 18:32:59,911][INFO ][gateway                  ] [Link] recovered [0] indices into cluster_state
+[2016-03-27 18:33:06,057][INFO ][node                     ] [Link] stopping ...
+[2016-03-27 18:33:06,070][INFO ][node                     ] [Link] stopped
+[2016-03-27 18:33:06,070][INFO ][node                     ] [Link] closing ...
+[2016-03-27 18:33:06,074][INFO ][node                     ] [Link] closed
