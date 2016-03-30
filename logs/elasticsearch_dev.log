@@ -1,32 +1,41 @@
-[2016-03-27 18:34:53,922][INFO ][node                     ] [Jerome Beechman] version[2.2.1], pid[16422], build[d045fc2/2016-03-09T09:38:54Z]
-[2016-03-27 18:34:53,922][INFO ][node                     ] [Jerome Beechman] initializing ...
-[2016-03-27 18:34:54,319][INFO ][plugins                  ] [Jerome Beechman] modules [lang-expression, lang-groovy], plugins [], sites []
-[2016-03-27 18:34:54,335][INFO ][env                      ] [Jerome Beechman] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
-[2016-03-27 18:34:54,335][INFO ][env                      ] [Jerome Beechman] heap size [989.8mb], compressed ordinary object pointers [true]
-[2016-03-27 18:34:54,336][WARN ][env                      ] [Jerome Beechman] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
-[2016-03-27 18:34:55,509][INFO ][node                     ] [Jerome Beechman] initialized
-[2016-03-27 18:34:55,509][INFO ][node                     ] [Jerome Beechman] starting ...
-[2016-03-27 18:34:55,564][INFO ][transport                ] [Jerome Beechman] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
-[2016-03-27 18:34:55,573][INFO ][discovery                ] [Jerome Beechman] elasticsearch_dev/DWRTtk8CRsaipmRb0gnZMw
-[2016-03-27 18:34:56,564][INFO ][node                     ] [Jerome Beechman] stopping ...
-[2016-03-27 18:34:56,574][INFO ][node                     ] [Jerome Beechman] stopped
-[2016-03-27 18:34:56,574][INFO ][node                     ] [Jerome Beechman] closing ...
-[2016-03-27 18:34:56,579][INFO ][node                     ] [Jerome Beechman] closed
-[2016-03-27 18:35:00,039][INFO ][node                     ] [Thumbelina] version[2.2.1], pid[16461], build[d045fc2/2016-03-09T09:38:54Z]
-[2016-03-27 18:35:00,039][INFO ][node                     ] [Thumbelina] initializing ...
-[2016-03-27 18:35:00,410][INFO ][plugins                  ] [Thumbelina] modules [lang-expression, lang-groovy], plugins [], sites []
-[2016-03-27 18:35:00,427][INFO ][env                      ] [Thumbelina] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
-[2016-03-27 18:35:00,427][INFO ][env                      ] [Thumbelina] heap size [989.8mb], compressed ordinary object pointers [true]
-[2016-03-27 18:35:00,427][WARN ][env                      ] [Thumbelina] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
-[2016-03-27 18:35:01,615][INFO ][node                     ] [Thumbelina] initialized
-[2016-03-27 18:35:01,615][INFO ][node                     ] [Thumbelina] starting ...
-[2016-03-27 18:35:01,669][INFO ][transport                ] [Thumbelina] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
-[2016-03-27 18:35:01,674][INFO ][discovery                ] [Thumbelina] elasticsearch_dev/enBpF3keQOqRDJ-zuPo1_w
-[2016-03-27 18:35:04,710][INFO ][cluster.service          ] [Thumbelina] new_master {Thumbelina}{enBpF3keQOqRDJ-zuPo1_w}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
-[2016-03-27 18:35:04,724][INFO ][http                     ] [Thumbelina] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
-[2016-03-27 18:35:04,724][INFO ][node                     ] [Thumbelina] started
-[2016-03-27 18:35:04,740][INFO ][gateway                  ] [Thumbelina] recovered [0] indices into cluster_state
-[2016-03-27 18:35:27,530][INFO ][node                     ] [Thumbelina] stopping ...
-[2016-03-27 18:35:27,544][INFO ][node                     ] [Thumbelina] stopped
-[2016-03-27 18:35:27,544][INFO ][node                     ] [Thumbelina] closing ...
-[2016-03-27 18:35:27,550][INFO ][node                     ] [Thumbelina] closed
+[2016-03-30 20:50:23,565][INFO ][node                     ] [Cerberus] version[2.2.1], pid[49172], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-30 20:50:23,567][INFO ][node                     ] [Cerberus] initializing ...
+[2016-03-30 20:50:24,116][INFO ][plugins                  ] [Cerberus] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-30 20:50:24,144][INFO ][env                      ] [Cerberus] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.6gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-30 20:50:24,144][INFO ][env                      ] [Cerberus] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-30 20:50:24,145][WARN ][env                      ] [Cerberus] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-30 20:50:25,954][INFO ][node                     ] [Cerberus] initialized
+[2016-03-30 20:50:25,954][INFO ][node                     ] [Cerberus] starting ...
+[2016-03-30 20:50:26,036][INFO ][transport                ] [Cerberus] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-30 20:50:26,046][INFO ][discovery                ] [Cerberus] elasticsearch_dev/9alWCCM9SGeLR0wnDvwqRg
+[2016-03-30 20:50:29,086][INFO ][cluster.service          ] [Cerberus] new_master {Cerberus}{9alWCCM9SGeLR0wnDvwqRg}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-30 20:50:29,102][INFO ][http                     ] [Cerberus] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-30 20:50:29,102][INFO ][node                     ] [Cerberus] started
+[2016-03-30 20:50:29,136][INFO ][gateway                  ] [Cerberus] recovered [1] indices into cluster_state
+[2016-03-30 20:50:29,455][INFO ][cluster.routing.allocation] [Cerberus] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2016-03-30 21:07:36,572][INFO ][node                     ] [Cerberus] stopping ...
+[2016-03-30 21:07:36,596][INFO ][node                     ] [Cerberus] stopped
+[2016-03-30 21:07:36,596][INFO ][node                     ] [Cerberus] closing ...
+[2016-03-30 21:07:36,600][INFO ][node                     ] [Cerberus] closed
+[2016-03-30 21:08:23,780][INFO ][node                     ] [Elixir] version[2.2.1], pid[50585], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-30 21:08:23,781][INFO ][node                     ] [Elixir] initializing ...
+[2016-03-30 21:08:24,175][INFO ][plugins                  ] [Elixir] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-30 21:08:24,192][INFO ][env                      ] [Elixir] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.6gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-30 21:08:24,192][INFO ][env                      ] [Elixir] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-30 21:08:24,193][WARN ][env                      ] [Elixir] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-30 21:08:25,391][INFO ][node                     ] [Elixir] initialized
+[2016-03-30 21:08:25,391][INFO ][node                     ] [Elixir] starting ...
+[2016-03-30 21:08:25,446][INFO ][transport                ] [Elixir] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-30 21:08:25,453][INFO ][discovery                ] [Elixir] elasticsearch_dev/lyB_SHjpRFeXl5_RKky0eg
+[2016-03-30 21:08:28,486][INFO ][cluster.service          ] [Elixir] new_master {Elixir}{lyB_SHjpRFeXl5_RKky0eg}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-30 21:08:28,501][INFO ][http                     ] [Elixir] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-30 21:08:28,501][INFO ][node                     ] [Elixir] started
+[2016-03-30 21:08:28,527][INFO ][gateway                  ] [Elixir] recovered [1] indices into cluster_state
+[2016-03-30 21:08:28,772][INFO ][cluster.routing.allocation] [Elixir] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[.kibana][0]] ...]).
+[2016-03-30 21:11:49,914][INFO ][cluster.metadata         ] [Elixir] [megacorp] creating index, cause [auto(index api)], templates [], shards [5]/[1], mappings [employee]
+[2016-03-30 21:11:50,006][INFO ][cluster.routing.allocation] [Elixir] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[megacorp][4]] ...]).
+[2016-03-30 21:11:50,032][INFO ][cluster.metadata         ] [Elixir] [megacorp] update_mapping [employee]
+[2016-03-30 21:16:52,938][INFO ][node                     ] [Elixir] stopping ...
+[2016-03-30 21:16:52,979][INFO ][node                     ] [Elixir] stopped
+[2016-03-30 21:16:52,979][INFO ][node                     ] [Elixir] closing ...
+[2016-03-30 21:16:52,983][INFO ][node                     ] [Elixir] closed

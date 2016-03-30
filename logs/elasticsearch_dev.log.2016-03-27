@@ -1,0 +1,32 @@
+[2016-03-27 18:34:53,922][INFO ][node                     ] [Jerome Beechman] version[2.2.1], pid[16422], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-27 18:34:53,922][INFO ][node                     ] [Jerome Beechman] initializing ...
+[2016-03-27 18:34:54,319][INFO ][plugins                  ] [Jerome Beechman] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-27 18:34:54,335][INFO ][env                      ] [Jerome Beechman] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-27 18:34:54,335][INFO ][env                      ] [Jerome Beechman] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-27 18:34:54,336][WARN ][env                      ] [Jerome Beechman] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-27 18:34:55,509][INFO ][node                     ] [Jerome Beechman] initialized
+[2016-03-27 18:34:55,509][INFO ][node                     ] [Jerome Beechman] starting ...
+[2016-03-27 18:34:55,564][INFO ][transport                ] [Jerome Beechman] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-27 18:34:55,573][INFO ][discovery                ] [Jerome Beechman] elasticsearch_dev/DWRTtk8CRsaipmRb0gnZMw
+[2016-03-27 18:34:56,564][INFO ][node                     ] [Jerome Beechman] stopping ...
+[2016-03-27 18:34:56,574][INFO ][node                     ] [Jerome Beechman] stopped
+[2016-03-27 18:34:56,574][INFO ][node                     ] [Jerome Beechman] closing ...
+[2016-03-27 18:34:56,579][INFO ][node                     ] [Jerome Beechman] closed
+[2016-03-27 18:35:00,039][INFO ][node                     ] [Thumbelina] version[2.2.1], pid[16461], build[d045fc2/2016-03-09T09:38:54Z]
+[2016-03-27 18:35:00,039][INFO ][node                     ] [Thumbelina] initializing ...
+[2016-03-27 18:35:00,410][INFO ][plugins                  ] [Thumbelina] modules [lang-expression, lang-groovy], plugins [], sites []
+[2016-03-27 18:35:00,427][INFO ][env                      ] [Thumbelina] using [1] data paths, mounts [[/ (/dev/disk1)]], net usable_space [130.3gb], net total_space [232.6gb], spins? [unknown], types [hfs]
+[2016-03-27 18:35:00,427][INFO ][env                      ] [Thumbelina] heap size [989.8mb], compressed ordinary object pointers [true]
+[2016-03-27 18:35:00,427][WARN ][env                      ] [Thumbelina] max file descriptors [10240] for elasticsearch process likely too low, consider increasing to at least [65536]
+[2016-03-27 18:35:01,615][INFO ][node                     ] [Thumbelina] initialized
+[2016-03-27 18:35:01,615][INFO ][node                     ] [Thumbelina] starting ...
+[2016-03-27 18:35:01,669][INFO ][transport                ] [Thumbelina] publish_address {127.0.0.1:9300}, bound_addresses {[fe80::1]:9300}, {[::1]:9300}, {127.0.0.1:9300}
+[2016-03-27 18:35:01,674][INFO ][discovery                ] [Thumbelina] elasticsearch_dev/enBpF3keQOqRDJ-zuPo1_w
+[2016-03-27 18:35:04,710][INFO ][cluster.service          ] [Thumbelina] new_master {Thumbelina}{enBpF3keQOqRDJ-zuPo1_w}{127.0.0.1}{127.0.0.1:9300}, reason: zen-disco-join(elected_as_master, [0] joins received)
+[2016-03-27 18:35:04,724][INFO ][http                     ] [Thumbelina] publish_address {127.0.0.1:9200}, bound_addresses {[fe80::1]:9200}, {[::1]:9200}, {127.0.0.1:9200}
+[2016-03-27 18:35:04,724][INFO ][node                     ] [Thumbelina] started
+[2016-03-27 18:35:04,740][INFO ][gateway                  ] [Thumbelina] recovered [0] indices into cluster_state
+[2016-03-27 18:35:27,530][INFO ][node                     ] [Thumbelina] stopping ...
+[2016-03-27 18:35:27,544][INFO ][node                     ] [Thumbelina] stopped
+[2016-03-27 18:35:27,544][INFO ][node                     ] [Thumbelina] closing ...
+[2016-03-27 18:35:27,550][INFO ][node                     ] [Thumbelina] closed
